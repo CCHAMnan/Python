@@ -1,0 +1,3 @@
+1, Albert, M, 01/04/1960, Ta Kmav, 012 212 121, Albert120@gmail.com
+2, Einstein, M, 18/04/1955, Chom Chao, 012 212 121, Albert120@gmail.com
+3, Newton, M, 17/01/1980, Steung Mean Chey, 012 212 121, Albert120@gmail.com

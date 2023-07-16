@@ -1,0 +1,4 @@
+1, Lina, F, 1000
+2, Pheaktra, F, 900
+3, Sing, M, 800
+4, Chamnan, M, 1000
