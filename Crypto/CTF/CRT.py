@@ -25,13 +25,13 @@ x = sympy.var('x')
 
 result = sympy.solve(a * x ** 2 + b * x + c)
 
-p = int(result[0])
-q = int(result[1])
+p = int(result[1])
+q = int(result[0])
 
 #Find private exponent d
-d = pow(e, -1, q-1)
+d = pow(e, -1, p-1)
 
 #Decrypt message
-m = pow(c_p, d, q)
+m = pow(c_p, d, p)
 
 print(long_to_bytes(m))
